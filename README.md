@@ -1,8 +1,8 @@
 <h2 align="center">👋 Hi, I'm Carlo Garcia</h2>
-I'm an IT student. My goal as a learner is to explore and enchance my abilities by interacting with other programmers and I also want to learn on how they become a great developer/programmer.
+I'm an IT student. My goal as a learner is to explore and enhance my abilities by interacting with other programmers and I also want to learn how they become a great developer/programmer.
 
 - 👀 I enjoy **Coding**.
-- 🔍 I’m looking for someone that can teach me more on programming.
+- 🔍 I’m looking for someone who can teach me more about programming.
 - 🌱 I’m currently learning how **Frontend and Backend** works.
 
 <h3 align="left">Connect with me:</h3>
