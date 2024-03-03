@@ -20,8 +20,4 @@ I'm an IT student. My goal as a learner is to explore and enhance my abilities b
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<h3 align="left">Github Highlights:🌼</h3>
-
-<img align= "left" width= "47%" src= "https://github-readme-stats.vercel.app/api?username=mrmickii&show_icons=true&theme=radical"/>
-<img align= "left" width= "47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mrmickii&layout=dark"/>
 
